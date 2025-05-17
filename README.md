@@ -1,1 +1,1 @@
-# Edunet-week1
+# Edunet
